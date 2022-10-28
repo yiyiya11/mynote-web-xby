@@ -8,10 +8,10 @@
           Copyright&nbsp;©
           <span id="year">2022-现在</span>
           |邮箱：2276780432@qq.com
-          |Welcome to login
+          |Welcome to 小白云notebook
           <br>
           <span id="busuanzi_container_site_pv" style="display: inline;">
-                |&nbsp;<i class="far fa-eye"></i>&nbsp;<a href="https://beian.miit.gov.cn" style="text-decoration: none">鲁ICP备2022032659号</a>&nbsp;
+                &nbsp;<i class="far fa-eye"></i>&nbsp;<a href="https://beian.miit.gov.cn" style="text-decoration: none">鲁ICP备2022032659号</a>&nbsp;
             </span>
           <span id="busuanzi_container_site_uv" style="display: inline;">
                 |&nbsp;<i class="fas fa-users"></i>&nbsp;暂时搁置&nbsp;

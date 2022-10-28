@@ -1,7 +1,11 @@
 <template>
   <div class="about">
-    <el-card class="category"><i class="el-icon-folder-opened"></i>&nbsp;&nbsp;&nbsp;&nbsp;JavaMVC相关</el-card>
-    <el-card class="article"><i class="el-icon-tickets"></i>&nbsp;&nbsp;&nbsp;&nbsp;JavaMVC原理</el-card>
+    <a href="">
+      <el-card class="category"><i class="el-icon-folder-opened"></i>&nbsp;&nbsp;&nbsp;&nbsp;JavaMVC相关</el-card>
+    </a>
+    <a href="">
+      <el-card class="article"><i class="el-icon-tickets"></i>&nbsp;&nbsp;&nbsp;&nbsp;JavaMVC原理</el-card>
+    </a>
     <div id="roo">
       <el-row id="row">
         <el-button type="primary" round>首页</el-button>
